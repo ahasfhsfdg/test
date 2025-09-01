@@ -1,6 +1,6 @@
 ---
 name: issue template
-about: 설명
+about: 설명ㅁㄹㄻㄹ
 
 
 ---
