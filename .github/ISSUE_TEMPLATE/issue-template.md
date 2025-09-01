@@ -1,4 +1,9 @@
 ---
+name: issue template
+about: 설명
+
+
+---
 ## 이슈 설명
 (어떤 문제가 발생했나요?)
 
