@@ -13,6 +13,6 @@ public class HelloService {
         return a - b;
     }
 
-    public void test(){
+    public void test(int a){
     }
 }
