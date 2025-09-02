@@ -12,4 +12,7 @@ public class HelloService {
     public int subtract(int a, int b) {
         return a - b;
     }
+
+    public void test(){
+    }
 }
