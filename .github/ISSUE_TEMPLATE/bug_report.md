@@ -1,9 +1,9 @@
 ---
 name: 🐞 Bug Report
 about: 프로젝트에서 발견된 버그를 보고하는 템플릿입니다.
-title: "[BUG] "
-labels: bug
-assignees: ""
+title: "[BUG]"
+labels: ["bug"]
+assignees: ["your-id"]
 ---
 
 ## 🐛 버그 설명
